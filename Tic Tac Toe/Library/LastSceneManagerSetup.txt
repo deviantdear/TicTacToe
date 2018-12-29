@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Main_Valarie_Adams.unity
+  isLoaded: 1
+  isActive: 1
